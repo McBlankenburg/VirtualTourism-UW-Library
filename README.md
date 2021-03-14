@@ -1,2 +1,3 @@
-# VirtualTourism-UW-Library
-VirtualTour app to virtual visit and learn about university of warsaw library
+## Description
+
+Mobile application for a virtual tour of the library facility of the University of Warsaw.
